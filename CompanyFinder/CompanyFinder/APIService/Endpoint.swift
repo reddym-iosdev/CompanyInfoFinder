@@ -12,6 +12,7 @@ struct Endpoint {
     let queryItems: [URLQueryItem]
 }
 
+// Endpoint is responsible to deliver the URL to make the API calls. 
 extension Endpoint {
     static func search(searchTerm: String, itemsPerPage: String? = "100") -> Endpoint? {
         
@@ -21,7 +22,7 @@ extension Endpoint {
             return nil
         }
         
-        return Endpoint(path: hostDetails.companySearchPath.rawValue, queryItems: [
+        return Endpoint(path: HostDetails.companySearchPath.rawValue, queryItems: [
             URLQueryItem(name: "q", value: searchTerm),
             URLQueryItem(name: "items_per_page", value: itemsPerPage),
             URLQueryItem(name: "start_index", value: startIndex)
@@ -30,8 +31,8 @@ extension Endpoint {
 
     var url: URL? {
         var components = URLComponents()
-        components.scheme = hostDetails.schema.rawValue
-        components.host = hostDetails.host.rawValue
+        components.scheme = HostDetails.schema.rawValue
+        components.host = HostDetails.host.rawValue
         components.path = path
         components.queryItems = queryItems
         

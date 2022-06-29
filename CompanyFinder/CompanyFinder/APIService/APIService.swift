@@ -23,7 +23,7 @@ class APIService: APIServiceProtocol {
     
     func requestCompanySearchData(_ endpoint: Endpoint, completion: @escaping (SearchResultsResponse) -> Void) {
         
-        let headers : HTTPHeaders = ["Content-Type":"application/json", "Authorization":"Basic \(hostDetails.apiKey.rawValue)"]
+        let headers : HTTPHeaders = ["Content-Type":"application/json", "Authorization":"Basic \(HostDetails.apiKey.rawValue)"]
         print("URL String: \(endpoint.urlString)")
         
         urlSession.request(endpoint.urlString, headers: headers)

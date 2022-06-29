@@ -62,7 +62,6 @@ class CompaniesSearchVC: UIViewController {
 
 extension CompaniesSearchVC: UISearchBarDelegate {
     
-    
     func searchBarTextDidBeginEditing(_ searchBar: UISearchBar) {
         searchActive = true
     }
