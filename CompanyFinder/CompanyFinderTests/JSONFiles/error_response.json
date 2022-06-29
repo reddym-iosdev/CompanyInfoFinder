@@ -1,0 +1,325 @@
+{
+    "items": [
+        {
+            "title": 1,
+            "date_of_cessation": "2014-03-12",
+            "matches": {
+                "snippet": [
+                    1,
+                    6
+                ]
+            },
+            "address_snippet": "51  Battersea Business Centre, 99-109 Lavender Hill, London, SW11 5QL",
+            "company_type": "ltd",
+            "company_status": "dissolved",
+            "address": {
+                "locality": "London",
+                "address_line_2": "99-109 Lavender Hill",
+                "address_line_1": "Battersea Business Centre",
+                "postal_code": "SW11 5QL",
+                "premises": "51 "
+            },
+            "kind": "searchresults#company",
+            "date_of_creation": "1998-12-22",
+            "company_number": "03687280",
+            "links": {
+                "self": "/company/03687280"
+            },
+            "snippet": "CLARIO ",
+            "description_identifier": [
+                "dissolved-on"
+            ],
+            "description": "03687280 - Dissolved on 12 March 2014"
+        },
+        {
+            "title": "CLARIO LEGAL & HR LIMITED",
+            "address_snippet": "7 & 8 Church Street, Wimborne, Dorset, England, BH21 1JH",
+            "matches": {
+                "title": [
+                    1,
+                    6
+                ],
+                "snippet": []
+            },
+            "company_type": "ltd",
+            "company_status": "active",
+            "address": {
+                "premises": "7",
+                "country": "England",
+                "postal_code": "BH21 1JH",
+                "address_line_1": "& 8 Church Street",
+                "region": "Dorset",
+                "locality": "Wimborne"
+            },
+            "date_of_creation": "2019-09-25",
+            "kind": "searchresults#company",
+            "snippet": "",
+            "links": {
+                "self": "/company/12225776"
+            },
+            "company_number": "12225776",
+            "description": "12225776 - Incorporated on 25 September 2019",
+            "description_identifier": [
+                "incorporated-on"
+            ]
+        },
+        {
+            "company_type": "ltd",
+            "address": {
+                "postal_code": "WD18 8YH",
+                "country": "United Kingdom",
+                "premises": "Suite 5,",
+                "locality": "Watford",
+                "address_line_2": "Hatters Lane",
+                "address_line_1": "Building 6 Croxley Green Business Park"
+            },
+            "company_status": "active",
+            "title": "CLARIOS UK LIMITED",
+            "address_snippet": "Suite 5, Building 6 Croxley Green Business Park, Hatters Lane, Watford, United Kingdom, WD18 8YH",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    7
+                ]
+            },
+            "snippet": "",
+            "links": {
+                "self": "/company/00982901"
+            },
+            "company_number": "00982901",
+            "description": "00982901 - Incorporated on 24 June 1970",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "date_of_creation": "1970-06-24",
+            "kind": "searchresults#company"
+        },
+        {
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "12229999 - Incorporated on 26 September 2019",
+            "links": {
+                "self": "/company/12229999"
+            },
+            "company_number": "12229999",
+            "snippet": "",
+            "date_of_creation": "2019-09-26",
+            "kind": "searchresults#company",
+            "address": {
+                "premises": "7",
+                "postal_code": "W1C 1AY",
+                "country": "United Kingdom",
+                "address_line_2": "Marylebone",
+                "address_line_1": "Stratford Place",
+                "locality": "London"
+            },
+            "company_status": "active",
+            "company_type": "ltd",
+            "matches": {
+                "title": [
+                    1,
+                    6
+                ],
+                "snippet": []
+            },
+            "address_snippet": "7 Stratford Place, Marylebone, London, United Kingdom, W1C 1AY",
+            "title": "CLARIO TECH LIMITED"
+        },
+        {
+            "snippet": "",
+            "links": {
+                "self": "/company/12653393"
+            },
+            "company_number": "12653393",
+            "description": "12653393 - Dissolved on  4 January 2022",
+            "description_identifier": [
+                "dissolved-on"
+            ],
+            "date_of_creation": "2020-06-08",
+            "kind": "searchresults#company",
+            "company_type": "ltd",
+            "address": {
+                "postal_code": "W1C 1AY",
+                "country": "United Kingdom",
+                "premises": "7",
+                "locality": "London",
+                "address_line_2": "Marylebone",
+                "address_line_1": "Stratford Place"
+            },
+            "company_status": "dissolved",
+            "title": "CLARIO TECH SUPPORT & DEVELOPMENT LIMITED",
+            "date_of_cessation": "2022-01-04",
+            "matches": {
+                "title": [
+                    1,
+                    6
+                ],
+                "snippet": []
+            },
+            "address_snippet": "7 Stratford Place, Marylebone, London, United Kingdom, W1C 1AY"
+        },
+        {
+            "title": "VITA BRAND LTD",
+            "address_snippet": "45 Britannia Way, Britannia Business Park, Lichfield, Staffordshire, WS14 9UY",
+            "matches": {
+                "snippet": [
+                    1,
+                    6
+                ]
+            },
+            "company_type": "ltd",
+            "company_status": "active",
+            "address": {
+                "premises": "45",
+                "postal_code": "WS14 9UY",
+                "address_line_2": "Britannia Business Park",
+                "address_line_1": "Britannia Way",
+                "region": "Staffordshire",
+                "locality": "Lichfield"
+            },
+            "date_of_creation": "2002-03-13",
+            "kind": "searchresults#company",
+            "links": {
+                "self": "/company/04393401"
+            },
+            "company_number": "04393401",
+            "snippet": "CLARIO SKINCARE ",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "04393401 - Incorporated on 13 March 2002"
+        },
+        {
+            "description": "10862424 - Incorporated on 12 July 2017",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "snippet": "",
+            "links": {
+                "self": "/company/10862424"
+            },
+            "company_number": "10862424",
+            "kind": "searchresults#company",
+            "date_of_creation": "2017-07-12",
+            "address": {
+                "locality": "Alderley Edge",
+                "region": "Cheshire",
+                "address_line_1": "52 London Road",
+                "country": "England",
+                "postal_code": "SK9 7DZ",
+                "premises": "Overbank"
+            },
+            "company_status": "active",
+            "company_type": "ltd",
+            "address_snippet": "Overbank, 52 London Road, Alderley Edge, Cheshire, England, SK9 7DZ",
+            "matches": {
+                "title": [
+                    1,
+                    7
+                ],
+                "snippet": []
+            },
+            "title": "CLARION LIMITED"
+        },
+        {
+            "title": "CLARION ACADEMY TRUST",
+            "matches": {
+                "title": [
+                    1,
+                    7
+                ],
+                "snippet": []
+            },
+            "address_snippet": "Hobart High School Kittens Lane, Loddon, Norwich, Norfolk, NR14 6JU",
+            "company_type": "private-limited-guarant-nsc-limited-exemption",
+            "address": {
+                "address_line_1": "Loddon",
+                "region": "Norfolk",
+                "locality": "Norwich",
+                "premises": "Hobart High School Kittens Lane",
+                "postal_code": "NR14 6JU"
+            },
+            "company_status": "active",
+            "kind": "searchresults#company",
+            "date_of_creation": "2013-01-04",
+            "links": {
+                "self": "/company/08347874"
+            },
+            "company_number": "08347874",
+            "snippet": "",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "08347874 - Incorporated on  4 January 2013"
+        },
+        {
+            "links": {
+                "self": "/company/10586134"
+            },
+            "company_number": "10586134",
+            "snippet": "",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "description": "10586134 - Incorporated on 26 January 2017",
+            "kind": "searchresults#company",
+            "date_of_creation": "2017-01-26",
+            "company_type": "ltd",
+            "address": {
+                "locality": "Oakham",
+                "address_line_1": "14 Church Street",
+                "postal_code": "LE15 6AA",
+                "country": "England",
+                "premises": "Clarion House"
+            },
+            "company_status": "active",
+            "title": "CLARION ACCOUNTANCY AND TAXATION LIMITED",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    7
+                ]
+            },
+            "address_snippet": "Clarion House, 14 Church Street, Oakham, England, LE15 6AA"
+        },
+        {
+            "company_type": "ltd",
+            "address": {
+                "locality": "Ipswich",
+                "address_line_1": "St. Nicholas Court",
+                "postal_code": "IP1 1TG",
+                "country": "United Kingdom",
+                "premises": "Cottage No 2"
+            },
+            "company_status": "active",
+            "title": "CLARION ACCOUNTING LTD",
+            "matches": {
+                "snippet": [],
+                "title": [
+                    1,
+                    7
+                ]
+            },
+            "address_snippet": "Cottage No 2, St. Nicholas Court, Ipswich, United Kingdom, IP1 1TG",
+            "snippet": "",
+            "links": {
+                "self": "/company/11513351"
+            },
+            "company_number": "11513351",
+            "description": "11513351 - Incorporated on 13 August 2018",
+            "description_identifier": [
+                "incorporated-on"
+            ],
+            "kind": "searchresults#company",
+            "date_of_creation": "2018-08-13"
+        }
+    ],
+    "kind": "search#companies",
+    "page_number": 1,
+    "start_index": 0,
+    "items_per_page": 10,
+    "total_results": 259
+}
