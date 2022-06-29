@@ -4,7 +4,7 @@ CompanyFinder is a simple iOS app that helps you search for any company register
 # How does it work?
 Once the app is launched, you will have a search bar. Just enter something, and it returns the limited companies that are registered in the UK.
 
-![Company Finder App](https://github.com/reddym-iosdev/CompanyInfoFinder/blob/main/CompanyFinder%20-%20Home.png)
+<img src="https://github.com/reddym-iosdev/CompanyInfoFinder/blob/main/CompanyFinder%20-%20Home.png" width="250" height="500">
 
 ## Search Results
 By default, the app displays 100 results. The max number of search results a single API can fetch is 100. The default value can be changed in `line 16 of Endpoint.swift file.`
@@ -21,7 +21,7 @@ The project CompanyFinder uses MVVM architecture.
 ## Test Coverage
 I've only concentrated on writing Unit Tests as there is minimal UI. This app has code coverage of 41.9%. I know this is very low, but most of the core classes are covered 100%
 
-![CompanyFinder - CodeCoverage.png](https://github.com/reddym-iosdev/CompanyInfoFinder/blob/main/CompanyFinder%20-%20CodeCoverage.png)
+<img src="https://github.com/reddym-iosdev/CompanyInfoFinder/blob/main/CompanyFinder%20-%20CodeCoverage.png" width="500" height="250">
 
 This well-architectured app achieves maintainability, testability, scalability, and readability.
 
@@ -49,8 +49,12 @@ This request requires an API key in the authorization header.
 # Run the App
 This app used Cocoapods, so in the first run, ensure you run `pod install` inside the CompanyFinder folder.
 
-## Extended Functionalities
+# Extended Functionalities
 
 1. Configuration File: When the app grows in size, it will be hard to manage the default values. So it's better to add a configuration file that holds the default list. 
 2. Custom Tableview Cell: We can add a custom table view cell to display more information.
-3. By adding more comments, we can improve code readability.
+3. Display Details: When the user clicks on a tableview cell, we can show full company details on a separate screen.
+
+# Suggested Improvements
+1. By adding more comments, we can improve code readability.
+2. I've added tests to cover the core functionalities. More tests can be added to increase testability.
