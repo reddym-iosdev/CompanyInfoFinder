@@ -4,7 +4,7 @@ CompanyFinder is a simple iOS app that helps you search for any company register
 # How does it work?
 Once the app is launched, you will have a search bar. Just enter something, and it returns the limited companies that are registered in the UK.
 
-![Company Finder App](CompanyFinder - Home)
+![Company Finder App](https://github.com/reddym-iosdev/CompanyInfoFinder/blob/main/CompanyFinder%20-%20Home.png)
 
 ## Search Results
 By default, the app displays 100 results. The max number of search results a single API can fetch is 100. The default value can be changed in `line 16 of Endpoint.swift file.`
@@ -21,7 +21,7 @@ The project CompanyFinder uses MVVM architecture.
 ## Test Coverage
 I've only concentrated on writing Unit Tests as there is minimal UI. This app has code coverage of 41.9%. I know this is very low, but most of the core classes are covered 100%
 
-![Code Coverage](CompanyFinder - CodeCoverage.png)
+![CompanyFinder - CodeCoverage.png](https://github.com/reddym-iosdev/CompanyInfoFinder/blob/main/CompanyFinder%20-%20CodeCoverage.png)
 
 This well-architectured app achieves maintainability, testability, scalability, and readability.
 
