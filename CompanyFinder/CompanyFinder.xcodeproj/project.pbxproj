@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		631354BA28635CF10097062E /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631354B928635CF10097062E /* Endpoint.swift */; };
 		631354BC28635D480097062E /* APIServiceEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631354BB28635D480097062E /* APIServiceEnum.swift */; };
-		63ACB06B286B4D6800E9D13C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 63ACB06A286B4D6800E9D13C /* README.md */; };
 		63AEA53328647FE5004DEB8C /* EndpointTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AEA53228647FE5004DEB8C /* EndpointTests.swift */; };
 		63AEA53528649399004DEB8C /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 63AEA53428649399004DEB8C /* Podfile */; };
 		63AEA5372864940C004DEB8C /* APIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AEA5362864940C004DEB8C /* APIService.swift */; };
@@ -66,7 +65,6 @@
 		39DF77693F2083CE3FE5C182 /* Pods_CompanyFinder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CompanyFinder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		631354B928635CF10097062E /* Endpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
 		631354BB28635D480097062E /* APIServiceEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIServiceEnum.swift; sourceTree = "<group>"; };
-		63ACB06A286B4D6800E9D13C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		63AEA53228647FE5004DEB8C /* EndpointTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndpointTests.swift; sourceTree = "<group>"; };
 		63AEA53428649399004DEB8C /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		63AEA5362864940C004DEB8C /* APIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIService.swift; sourceTree = "<group>"; };
@@ -204,7 +202,6 @@
 		9D87F3ED286327DC00933C82 = {
 			isa = PBXGroup;
 			children = (
-				63ACB06A286B4D6800E9D13C /* README.md */,
 				63AEA53428649399004DEB8C /* Podfile */,
 				9D87F3F8286327DC00933C82 /* CompanyFinder */,
 				9D87F40F286327DE00933C82 /* CompanyFinderTests */,
@@ -389,7 +386,6 @@
 			files = (
 				9D87F406286327DE00933C82 /* LaunchScreen.storyboard in Resources */,
 				9D87F403286327DE00933C82 /* Assets.xcassets in Resources */,
-				63ACB06B286B4D6800E9D13C /* README.md in Resources */,
 				63AEA53528649399004DEB8C /* Podfile in Resources */,
 				9D87F401286327DC00933C82 /* Main.storyboard in Resources */,
 			);
